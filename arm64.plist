@@ -1,0 +1,15 @@
+// BASED TO @raniXCH 
+// Created by Christian Colucci
+// Copyright 2018 © KernelTeamiOS
+//
+//
+//
+// Thread 0 crashed with ARM Thread state (iOS 11(2.x) 64-bit)
+// x0= 0x0000000000000001
+// x1= 0x0000000000000008
+// x2= 0x0000000000000000
+// x3= 0x0000000013371337
+// x4= 0x0000000000000000
+// x5= 0x0000000013371337
+// x6= 0x00000000deadbeef
+// pc= 0x00000000deadbeef
